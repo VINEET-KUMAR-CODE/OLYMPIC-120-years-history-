@@ -38,4 +38,5 @@ This project explores 120 years of Olympic Games history through data analysis a
 -------------
 
 ✨ All these tools combined to transform raw Olympic data into meaningful, impactful insights!
+
 ✨ If you like this project, don’t forget to ⭐ the repo!
